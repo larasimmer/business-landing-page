@@ -1,0 +1,30 @@
+.imagem-fundo {
+	background-image: url(img/header-bg.jpg);
+	background-position: center center;
+	background-size: cover;
+	height: 100vh;
+}
+
+#logotipo-header {
+	height: 30px;
+}
+
+.cor-principal {
+	background-color: #212529;
+}
+
+.fonte-principal {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.fonte-secundaria {
+	font-family: 'Roboto Slab', serif;
+}
+
+.cor-texto {
+	color: white !important;
+}
+
+.botao-cor-secundaria {
+	background-color: #ffc800;
+}
