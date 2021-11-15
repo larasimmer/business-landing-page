@@ -13,6 +13,22 @@
 	background-color: #212529;
 }
 
+.cor-branca {
+	color: white !important;
+}
+
+.cor-cinza {
+	color: #6c757d;
+}
+
+.cor-secundaria {
+	background-color: #ffc800;
+}
+
+.cor-fundo {
+	background-color: #e9ecef;
+}
+
 .fonte-principal {
 	font-family: 'Montserrat', sans-serif;
 }
@@ -21,15 +37,26 @@
 	font-family: 'Roboto Slab', serif;
 }
 
-.cor-texto {
-	color: white !important;
-}
-
-.botao-cor-secundaria {
-	background-color: #ffc800;
-}
-
 .centralizar-div {
 	padding-top: 16rem;
 }
 
+.tamanho-icone {
+	height: 6.5rem;
+}
+
+.sem-borda {
+	border: none;
+}
+
+.alinhamento-vertical {
+	padding-top: 7rem;
+}
+
+.card-posicao-imagem {
+	object-fit: cover;
+}
+
+.tamanho-maximo-card {
+	max-width: 28rem;
+}
