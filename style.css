@@ -42,11 +42,8 @@
 }
 
 .tamanho-icone {
-	height: 6.5rem;
-}
-
-.sem-borda {
-	border: none;
+	height: 7.5rem;
+	width: 8rem;
 }
 
 .alinhamento-vertical {
