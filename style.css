@@ -61,3 +61,25 @@
 .tamanho-imagem {
 	width: 8.5rem;
 }
+
+.tamanho-imagem-time {
+	width: 13rem;
+}
+
+.cor-icone-rede-social {
+	background-color: #212529;
+}
+
+.tamanho-icone-facebook {
+	padding-left: 0.75rem;
+	padding-right: 0.75rem;
+}
+
+.tamanho-icone-linkedin {
+	padding-left: 0.65rem;
+	padding-right: 0.65rem;
+}
+
+.borda-imagem-time {
+	border: 0.4rem solid #ced4da;
+}
