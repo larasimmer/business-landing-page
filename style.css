@@ -1,4 +1,4 @@
-.imagem-fundo {
+.imagem-fundo-div-principal {
 	background-image: url(img/header-bg.jpg);
 	background-position: center center;
 	background-size: cover;
@@ -82,4 +82,10 @@
 
 .borda-imagem-time {
 	border: 0.4rem solid #ced4da;
+}
+
+.imagem-fundo-contato {
+	background-image: url(img/map-image.png);
+	background-position: center center;
+	background-size: cover;
 }
