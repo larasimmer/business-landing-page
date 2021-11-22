@@ -9,6 +9,10 @@
 	height: 30px;
 }
 
+.nav-link:hover {
+	color: #ffc800 !important;
+}
+
 .cor-principal {
 	background-color: #212529;
 }
