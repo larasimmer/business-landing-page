@@ -66,6 +66,19 @@
 	width: 8.5rem;
 }
 
+.padding-imagem-about {
+	padding-right: 7px;
+}
+
+.borda-cinza {
+	border: 0.4rem solid #e9ecef;
+}
+
+.formato-circulo-about {
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+
 .tamanho-imagem-time {
 	width: 13rem;
 }
@@ -92,4 +105,10 @@
 	background-image: url(img/map-image.png);
 	background-position: center center;
 	background-size: cover;
+}
+
+@media screen and (max-width: 1200px) {
+	#yellow-circle {
+		display: none !important;
+	}
 }
