@@ -87,6 +87,10 @@
 	background-color: #212529;
 }
 
+.hover-cor-secundaria:hover {
+	background-color: #ffc800;
+}
+
 .tamanho-icone-facebook {
 	padding-left: 0.75rem;
 	padding-right: 0.75rem;
